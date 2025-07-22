@@ -1,17 +1,5 @@
 # User Stories - NAC_app
 
-Voici une liste complète et détaillée des **user stories** pour l'application **ReptoInsectHub**. Basée sur les fonctionnalités discutées : répertoire des espèces, comptes utilisateurs, calendrier et tracking (incluant notes quotidiennes, mues, nourrissages), intégration IA (identification, analyse, prédictions), cybersécurité, et extensions futures.
-
-Chaque user story suit le format agile standard :
-- **En tant que** [rôle],
-- **Je veux** [fonctionnalité],
-- **Afin de** [bénéfice].
-- **Critères d'acceptation** : Conditions pour valider la story.
-- **Priorité** : Must-have (MVP), Should-have (essentiel post-MVP), Could-have (avancé).
-- **Dépendances** : Si applicable.
-
-Structuré par modules pour clarté.
-
 ## Module 1 : Répertoire des Espèces
 
 1. **En tant que** visiteur (non connecté),  
