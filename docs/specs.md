@@ -58,12 +58,12 @@ Application web pour les passionnés d'insectes et reptiles, offrant :
 - Budget : Gratuit au départ (MongoDB Atlas, Vercel free tiers).
 
 ## 8. Stack Technique
-- **Front-End** : React, Next.js, Tailwind CSS.
-- **Back-End** : Node.js, Express.
+- **Front-End** : Vue.js, Nuxt3, Tailwind CSS, (Daisy UI).
+- **Back-End** : Node.js, Express, (Go ?, Python (fastapi) ?, Nuxt ?), Supabase (stocker db en ligne pour commencer).
 - **Base de Données** : MongoDB (fiches/notes), PostgreSQL (users), Redis (cache/events).
-- **IA** : Hugging Face (photo/text analysis), TensorFlow.js (client-side).
-- **Cybersécurité** : JWT, Helmet, bcrypt, HTTPS.
-- **DevOps** : Docker, GitHub Actions, Vercel/Render.
+- **IA** : Hugging Face (photo/text analysis), Pytorch (client-side).
+- **Cybersécurité** : JWT, Helmet, bcrypt (argon : donne de l'avance), HTTPS.
+- **DevOps** : Docker, GitHub Actions, Vercel/Render (Vercel faire gaffe si backend en go prend que les metaframework).
 
 ## 9. Prochaines Étapes
 - Collecter dataset 50 espèces (CSV/JSON).
